@@ -19,11 +19,13 @@ Setup
 
 copy the complied so file to your php library folder.
 
-```cp BBSAnsi2Html.so /usr/lib/php5/20060613+lfs/```
+```cp BBSAnsi2Html.so /usr/lib/php5/20060613+lfs/
+```
 
 and add following config to your php.ini.
 
-```extension=BBSAnsi2Html.so```
+```extension=BBSAnsi2Html.so
+```
 
 Usage
 ============
